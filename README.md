@@ -8,7 +8,7 @@ A voice assistant that runs on your computer. Say "Hey JARVIS" and talk to it �
 
 ## Why I Built This
 
-I wanted a voice assistant similar to the one seen in Marvels, Ironman. I looked for existing projects however, it seems most of them are built on exspensive API's. So I rebuilt the concept from scratch — cross-platform, modular, and cheap to run. The only paid services are Claude Haiku (~$1-3/mo) for intelligence and Fish Audio (free tier) for the voice.
+I wanted a voice assistant similar to the one seen in Marvels, Ironman. I looked for existing projects however, it seems most of them are built on exspensive API's or just isn't compatible with lower-tier devices. So I rebuilt the concept from scratch — cross-platform, modular, and cheap to run. The only paid services are Claude Haiku (~$1-3/mo) for intelligence and Fish Audio (free tier) for the voice.
 
 Everything else runs locally: speech recognition, wake word detection, timers, notes, search, math — all free.
 
