@@ -1,0 +1,42 @@
+# API keys and secrets
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# User data (generated at runtime)
+jarvis_memory.db
+jarvis_notes.json
+jarvis_settings.json
+jarvis_log.json
+
+# Temp audio files
+*.mp3
+*.wav
+*.png
+*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Whisper models (downloaded at runtime)
+*.bin
+*.pt
