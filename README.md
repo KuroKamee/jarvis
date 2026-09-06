@@ -1,4 +1,4 @@
-# JARVIS (first release, this took awhile)
+# JARVIS 
 
 A voice assistant that runs on your computer. Say "Hey JARVIS" and talk to it — it talks back in the MCU JARVIS voice. Built with Python, works on Mac and Windows, costs a few bucks a month.
 
